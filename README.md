@@ -18,7 +18,7 @@ ID | Name | Brief | Promote | Demote
 2 | Friends | Who just need ask for it | Ask promotion | Prove of better using time is not valid anymore
 3 | People | Who must pay for it | Prove that they using my time better than me | Waste my time
 4 | Hated | Who must bring an intercessor | Have a shot for sake of intercessor | Using my time to get me in trouble
-5 | Enemy | Who can not have it | Have only one shot with intercession of a best friend | 
+5 | Enemies | Who can not have it | Have only one shot with intercession of a best friend | 
 
 > By default everyone is on 3 state.
 
