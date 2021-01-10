@@ -15,9 +15,9 @@ In my opinion my time is the only thing that I can contorl. So I classify people
 ID | Name | Brief | Promote | Demote 
 -- | ---- | ----- | ------- | ------
 1 | Best Friends | Who have all of my time |  |  They want it
-2 | Friends | Who just need ask for it | Ask promotion | Prove of better using time is not valid anymore
+2 | Friends | Who just need to ask for it | Ask promotion | Prove of better using time is not valid anymore
 3 | People | Who must pay for it | Prove that they using my time better than me | Waste my time
-4 | Hated | Who must bring an intercessor | Have a shot for sake of intercessor | Using my time to get me in trouble
+4 | Hated | Who must bring an intercessor | Have a shot for the sake of intercessor | Using my time to get me in trouble
 5 | Enemies | Who can not have it | Have only one shot with intercession of a best friend | 
 
 > By default everyone is on 3 state.
@@ -25,3 +25,4 @@ ID | Name | Brief | Promote | Demote
 > Anybody can ask his/her state.
 
 # Specify my behavior
+-------------------
