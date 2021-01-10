@@ -2,7 +2,7 @@
 
 This is Younes Torshizi!
 
-I'm a software developer.I enjoy talking about abstractions. I want to be a better person therefore I share my thoughts and opinions to get tested and reveal the bugs. 
+I'm a software developer. I want to be a better person therefore I share my thoughts and opinions to reveal it's bugs and debuging. 
 
 Thanks to friends who tolerate my behavior :))
 
