@@ -2,7 +2,7 @@
 
 This is Younes Torshizi!
 
-I'm a software developer. I want to be a better person therefore I share my thoughts and opinions to reveal it's bugs and debug them. 
+I'm a software developer. I want to be a better person therefore I share my thoughts and opinions to reveal it's bugs in order to debug them. 
 
 My regards to friends who tolerate my behavior :))
 
@@ -34,7 +34,7 @@ Enemies
 
 Hated
 
-> They are not worth it, but they can use credit of the Ones with value. by saying they are not worthy of my time, I mean any time even talking time.
+> They are not worth it, but they can use credit of the ones with value. by saying they are not worthy of my time, I mean any time even talking time.
  it's a favor to them that I am answering them.
 
 People
