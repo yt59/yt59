@@ -2,14 +2,14 @@
 
 This is Younes Torshizi!
 
-I'm a software developer. I want to be a better person therefore I share my thoughts and opinions to reveal it's bugs and debuging. 
+I'm a software developer. I want to be a better person therefore I share my thoughts and opinions to reveal it's bugs and debug them. 
 
-Thanks to friends who tolerate my behavior :))
+My regards to friends who tolerate my behavior :))
 
 BTW I'm an INTP-A according to www.16personalities.com.
 
 ## Classes
-In my opinion my time is the only thing that I can contorl. So I classify people to five class to specify my behavior. Here is the classes:
+In my opinion, only thing I can control is my time. So I classify people to five class to specify my behavior. Here is the classes:
 
 
 ID | Name | Brief | How to promote | How to demote 
@@ -30,21 +30,21 @@ ID | Name | Brief | How to promote | How to demote
 
 Enemies
 
-> If I even see them dropping dead,I won't help them.
+> Even if I see them lying dead, I won't help them
 
 Hated
 
-> They not worth it, but they can use credit of the ones who worth it. by saying they not worth my time, I mean any time even talking time.
- it's a favor to them that I answer them.
+> They are not worth it, but they can use credit of the Ones with value. by saying they are not worthy of my time, I mean any time even talking time.
+ it's a favor to them that I am answering them.
 
 People
 
-> Most of them are unknown people. I'm using Sheldon's gift giving theory theory on them, the gift of my time in exchange of anything they offer.
+> Most of them are unknown people. I'm using Sheldon's gift giving theory on them, the gift of my time in exchange of anything they offer.
 
 Friends
 
-> The ones who I love and teach me how to live. The ones who want the best for me and I want best for them.
-The cost of using my time by them is watching their happiness.
+> Ones whom I adore and teach me how to live. They are the ones, wanting the best for me and I want the best for them.
+The cost of using my time for them is watching their happiness.
 
 Best Friends
 
