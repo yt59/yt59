@@ -21,6 +21,7 @@ ID | Name | Brief | How to promote | How to demote
 5 | Enemies | Who can not have it | Have only one shot with intercession of a best friend |
 
 > By default everyone is on 3 state.
+
 > Anybody can ask state of any one.
 
 ## Specify my behavior
@@ -40,8 +41,7 @@ People
 
 Friends
 
-> Ones whom I adore and teach me how to live. They are the ones, wanting the best for me and I want the best for them.
-The cost of using my time for them is watching their happiness.
+> Ones whom I adore and teach me how to live. They are the ones, wanting the best for me and I want the best for them. The cost of using my time for them is watching their happiness.
 
 Best Friends
 
