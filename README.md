@@ -22,7 +22,7 @@ ID | Name | Brief | How to promote | How to demote
 
 > By default everyone is on 3 state.
 
-> Anybody can ask his/her state.
+> Anybody can ask state of any one.
 
 
 ## Specify my behavior
