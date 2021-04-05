@@ -1,4 +1,4 @@
-# Hi there ^_^
+# Hi there (^_^)
 
 This is Younes Torshizi!
 
